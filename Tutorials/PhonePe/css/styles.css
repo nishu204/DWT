@@ -1,0 +1,63 @@
+img {
+  width: 100%;
+  padding: 10px;
+  border-color: #FFE3FE;
+  border: 8px;
+  border-radius: 20px;
+}
+
+h4 {
+  text-align: center;
+  color: #fff;
+}
+
+p {
+  text-align: center;
+  font-family: "Ubuntu";
+  color: #fff;
+  font-size: 20px;
+}
+
+
+body {
+  background-color: #AA2EE6;
+  overflow-x: hidden;
+}
+
+h2 {
+  text-align: center;
+  color: #fff;
+}
+
+hr {
+ border: 2px solid white;
+}
+
+/* Button Code */
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #B4AEE8, #93329E);
+  background-image: -moz-linear-gradient(top, #B4AEE8, #93329E);
+  background-image: -ms-linear-gradient(top, #B4AEE8, #93329E);
+  background-image: -o-linear-gradient(top, #B4AEE8, #93329E);
+  background-image: linear-gradient(to bottom, #B4AEE8, #93329E);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
